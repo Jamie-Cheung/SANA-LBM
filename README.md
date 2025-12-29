@@ -1,2 +1,2 @@
-# SANA-LBM
+# SANA+LBM
 Cooming soon.
